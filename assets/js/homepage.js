@@ -10,6 +10,4 @@ var getUserRepos = function() {
     });
 };
 
-console.log("outside");
-
 getUserRepos();
